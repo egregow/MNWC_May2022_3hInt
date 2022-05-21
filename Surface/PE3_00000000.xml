@@ -1,0 +1,5112 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+<STAT>
+<TAG>ALL</TAG>
+<VAR>3h Precipitation</VAR>
+<UNIT>mm/3h</UNIT>
+<PERIOD>20220501-20220520</PERIOD>
+ <STATION>
+ <MEAN_OBS>   9.34579372E-02 </MEAN_OBS>
+ <STDV_OBS>  0.494100660     </STDV_OBS>
+ <EXP>
+ <ID>       10015 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   8.88721496E-02 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>   1.15261626     </BIAS>
+ <RMSE>  0.461604059     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10015 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.372017860     </BIAS>
+ <RMSE>  0.765913308     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10015 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.396812260     </BIAS>
+ <RMSE>  0.737653732     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10015 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.431502253     </BIAS>
+ <RMSE>  0.685734689     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.55140090E-02 </MEAN_OBS>
+ <STDV_OBS>  0.447095603     </STDV_OBS>
+ <EXP>
+ <ID>       10020 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   9.68378261E-02 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.321319371     </BIAS>
+ <RMSE>  0.758650005     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10020 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.323693424     </BIAS>
+ <RMSE>  0.594068468     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10020 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.335144460     </BIAS>
+ <RMSE>  0.581581533     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10020 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.308950424     </BIAS>
+ <RMSE>  0.733240604     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.169483602     </MEAN_OBS>
+ <STDV_OBS>  0.608722448     </STDV_OBS>
+ <EXP>
+ <ID>       10035 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>  0.123426162     </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.535462677     </BIAS>
+ <RMSE>  0.634178638     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10035 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.467806995     </BIAS>
+ <RMSE>  0.719549417     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10035 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.461951792     </BIAS>
+ <RMSE>  0.729325533     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10035 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.476908684     </BIAS>
+ <RMSE>  0.704369545     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.14285734E-02 </MEAN_OBS>
+ <STDV_OBS>  0.181212306     </STDV_OBS>
+ <EXP>
+ <ID>       10055 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         210 </NUM>
+ <MEAN>   3.22010629E-02 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.110919498     </BIAS>
+ <RMSE>  0.899867833     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10055 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         210 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.110320278     </BIAS>
+ <RMSE>  0.908804536     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10055 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         210 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.113398403     </BIAS>
+ <RMSE>  0.899774671     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10055 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         210 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.135245562     </BIAS>
+ <RMSE>  0.840564489     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.111737095     </MEAN_OBS>
+ <STDV_OBS>  0.618184865     </STDV_OBS>
+ <EXP>
+ <ID>       10147 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>  0.123808950     </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.563962162     </BIAS>
+ <RMSE>  0.707095981     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10147 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.458270580     </BIAS>
+ <RMSE>  0.694872558     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10147 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.463853538     </BIAS>
+ <RMSE>  0.659217894     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10147 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.538689852     </BIAS>
+ <RMSE>  0.578544021     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.88405793E-02 </MEAN_OBS>
+ <STDV_OBS>  0.130295485     </STDV_OBS>
+ <EXP>
+ <ID>       10162 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         207 </NUM>
+ <MEAN>   2.67023295E-02 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.113969430     </BIAS>
+ <RMSE>  0.858992279     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10162 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         207 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.105553657     </BIAS>
+ <RMSE>  0.816024125     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10162 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         207 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.100846045     </BIAS>
+ <RMSE>  0.802086055     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10162 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         207 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>   8.99577737E-02 </BIAS>
+ <RMSE>  0.733161271     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.57142918E-03 </MEAN_OBS>
+ <STDV_OBS>  0.187486485     </STDV_OBS>
+ <EXP>
+ <ID>       10184 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         210 </NUM>
+ <MEAN>   2.81351432E-02 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.187007114     </BIAS>
+ <RMSE>  0.408675671     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10184 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         210 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.189645678     </BIAS>
+ <RMSE>  0.223701999     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10184 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         210 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.190864503     </BIAS>
+ <RMSE>  0.224505320     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10184 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         210 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.167485446     </BIAS>
+ <RMSE>  0.468430549     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.21256079E-03 </MEAN_OBS>
+ <STDV_OBS>   2.79036313E-02 </STDV_OBS>
+ <EXP>
+ <ID>       10224 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         207 </NUM>
+ <MEAN>   5.16034756E-03 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>   6.24569394E-02 </BIAS>
+ <RMSE>  0.492491245     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10224 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         207 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   4.34220321E-02 </BIAS>
+ <RMSE>  0.447669327     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10224 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         207 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>   4.17087972E-02 </BIAS>
+ <RMSE>  0.432866752     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10224 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         207 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>   3.69789153E-02 </BIAS>
+ <RMSE>  0.542328060     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.63380346E-02 </MEAN_OBS>
+ <STDV_OBS>  0.260933965     </STDV_OBS>
+ <EXP>
+ <ID>       10271 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>   3.43309119E-02 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.335886985     </BIAS>
+ <RMSE>  0.600418031     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10271 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.245449111     </BIAS>
+ <RMSE>  0.504911125     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10271 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.248206541     </BIAS>
+ <RMSE>  0.491633892     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10271 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.319035947     </BIAS>
+ <RMSE>  0.303637713     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.24999993E-02 </MEAN_OBS>
+ <STDV_OBS>  0.250033110     </STDV_OBS>
+ <EXP>
+ <ID>       10338 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   1.98258907E-02 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.435096949     </BIAS>
+ <RMSE>   4.13663872E-02 </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10338 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.201009333     </BIAS>
+ <RMSE>   1.48615427E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10338 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.174003884     </BIAS>
+ <RMSE>   1.16641372E-02 </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10338 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.267320931     </BIAS>
+ <RMSE>  -7.69973826E-03 </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.14814866E-02 </MEAN_OBS>
+ <STDV_OBS>   1.13758862     </STDV_OBS>
+ <EXP>
+ <ID>       10361 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>  0.155233651     </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.605385721     </BIAS>
+ <RMSE>  0.558448851     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10361 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.661265612     </BIAS>
+ <RMSE>  0.449810028     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10361 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.678526640     </BIAS>
+ <RMSE>  0.444307357     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10361 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>   1.06815016     </BIAS>
+ <RMSE>  0.373763084     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.77777780E-02 </MEAN_OBS>
+ <STDV_OBS>   6.87625445E-03 </STDV_OBS>
+ <EXP>
+ <ID>       10393 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   8.27930751E-04 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.208783790     </BIAS>
+ <RMSE>  0.246536121     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10393 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.211014718     </BIAS>
+ <RMSE>   8.85217339E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10393 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.211216465     </BIAS>
+ <RMSE>   6.26395866E-02 </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10393 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.210173368     </BIAS>
+ <RMSE>  0.226674020     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   9.95260756E-03 </MEAN_OBS>
+ <STDV_OBS>   1.74819119E-02 </STDV_OBS>
+ <EXP>
+ <ID>       10400 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         211 </NUM>
+ <MEAN>   3.62508278E-03 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>   5.12381755E-02 </BIAS>
+ <RMSE>  0.435205430     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10400 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         211 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   5.05268797E-02 </BIAS>
+ <RMSE>  0.385829777     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10400 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         211 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>   5.04878573E-02 </BIAS>
+ <RMSE>  0.363170743     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10400 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         211 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>   4.99777161E-02 </BIAS>
+ <RMSE>  0.369845986     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.33802861E-02 </MEAN_OBS>
+ <STDV_OBS>  0.487437278     </STDV_OBS>
+ <EXP>
+ <ID>       10091 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>   7.92194307E-02 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.347948730     </BIAS>
+ <RMSE>  0.853546023     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10091 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.290782362     </BIAS>
+ <RMSE>  0.876176775     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10091 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.307613701     </BIAS>
+ <RMSE>  0.891412556     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10091 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.257903785     </BIAS>
+ <RMSE>  0.869453132     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.130188674     </MEAN_OBS>
+ <STDV_OBS>  0.792159855     </STDV_OBS>
+ <EXP>
+ <ID>       10113 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         212 </NUM>
+ <MEAN>  0.109829672     </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.448474705     </BIAS>
+ <RMSE>  0.888877749     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10113 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         212 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.498198241     </BIAS>
+ <RMSE>  0.951732576     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10113 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         212 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.591358840     </BIAS>
+ <RMSE>  0.881724298     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10113 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         212 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.270262897     </BIAS>
+ <RMSE>  0.958499670     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.103738308     </MEAN_OBS>
+ <STDV_OBS>  0.225258440     </STDV_OBS>
+ <EXP>
+ <ID>       10131 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   4.58476320E-02 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.358759969     </BIAS>
+ <RMSE>  0.946301579     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10131 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.455396354     </BIAS>
+ <RMSE>  0.854718566     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10131 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.440247029     </BIAS>
+ <RMSE>  0.891764343     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10131 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.480975389     </BIAS>
+ <RMSE>  0.739045978     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.108333342     </MEAN_OBS>
+ <STDV_OBS>  0.399768323     </STDV_OBS>
+ <EXP>
+ <ID>       10170 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   7.47291371E-02 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.581128180     </BIAS>
+ <RMSE>  0.288165897     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10170 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.522857010     </BIAS>
+ <RMSE>  0.455399752     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10170 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.521393478     </BIAS>
+ <RMSE>  0.458246171     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10170 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.474309891     </BIAS>
+ <RMSE>  0.592070818     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.10185142E-02 </MEAN_OBS>
+ <STDV_OBS>  0.375107795     </STDV_OBS>
+ <EXP>
+ <ID>       10253 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   4.65282239E-02 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.276315153     </BIAS>
+ <RMSE>  0.823044598     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10253 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.253780574     </BIAS>
+ <RMSE>  0.707699955     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10253 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.287719011     </BIAS>
+ <RMSE>  0.664181054     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10253 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.313764155     </BIAS>
+ <RMSE>  0.560103655     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.96296272E-02 </MEAN_OBS>
+ <STDV_OBS>   8.92694443E-02 </STDV_OBS>
+ <EXP>
+ <ID>       10264 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   1.40797179E-02 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.181358278     </BIAS>
+ <RMSE>  0.502376795     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10264 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.158350646     </BIAS>
+ <RMSE>  0.295582980     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10264 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.164109766     </BIAS>
+ <RMSE>  0.161187351     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10264 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.103402928     </BIAS>
+ <RMSE>  0.817511678     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.05555575E-02 </MEAN_OBS>
+ <STDV_OBS>  0.126405805     </STDV_OBS>
+ <EXP>
+ <ID>       10268 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   2.04173326E-02 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.130783468     </BIAS>
+ <RMSE>  0.327382535     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10268 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.134563640     </BIAS>
+ <RMSE>  0.379839808     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10268 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.131850272     </BIAS>
+ <RMSE>  0.443274528     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10268 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.154600382     </BIAS>
+ <RMSE>  0.306383193     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.77777731E-02 </MEAN_OBS>
+ <STDV_OBS>  0.148816362     </STDV_OBS>
+ <EXP>
+ <ID>       10291 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   2.87436079E-02 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.368469834     </BIAS>
+ <RMSE>  0.331859976     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10291 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.271918118     </BIAS>
+ <RMSE>  0.699398577     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10291 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.285912037     </BIAS>
+ <RMSE>  0.644543290     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10291 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.337604254     </BIAS>
+ <RMSE>  0.420597285     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.21495323E-02 </MEAN_OBS>
+ <STDV_OBS>   8.85090325E-03 </STDV_OBS>
+ <EXP>
+ <ID>       10315 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   1.67715177E-03 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>   9.63148922E-02 </BIAS>
+ <RMSE>  -2.00746022E-02 </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10315 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.131809011     </BIAS>
+ <RMSE>  -1.42913712E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10315 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.131198153     </BIAS>
+ <RMSE>  -1.60582773E-02 </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10315 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>   9.50213522E-02 </BIAS>
+ <RMSE>  -1.99522972E-02 </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.71028101E-02 </MEAN_OBS>
+ <STDV_OBS>  0.177971214     </STDV_OBS>
+ <EXP>
+ <ID>       10379 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   2.57857461E-02 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.404852927     </BIAS>
+ <RMSE>   3.27870697E-02 </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10379 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.377470434     </BIAS>
+ <RMSE>   2.39271596E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10379 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.377262056     </BIAS>
+ <RMSE>   2.12943107E-02 </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10379 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.388910413     </BIAS>
+ <RMSE>   1.19641265E-02 </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.70891988E-02 </MEAN_OBS>
+ <STDV_OBS>  0.105462283     </STDV_OBS>
+ <EXP>
+ <ID>       10384 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>   1.79319326E-02 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.186533317     </BIAS>
+ <RMSE>  0.188432097     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10384 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.184549153     </BIAS>
+ <RMSE>  0.239874274     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10384 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.185279042     </BIAS>
+ <RMSE>  0.225665078     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10384 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.209701583     </BIAS>
+ <RMSE>   7.85379261E-02 </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.85714306E-03 </MEAN_OBS>
+ <STDV_OBS>  0.110751539     </STDV_OBS>
+ <EXP>
+ <ID>       10410 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         210 </NUM>
+ <MEAN>   1.71464272E-02 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>   9.08975825E-02 </BIAS>
+ <RMSE>   4.80203517E-02 </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10410 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         210 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   6.95053861E-02 </BIAS>
+ <RMSE>  0.152156755     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10410 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         210 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.120855331     </BIAS>
+ <RMSE>   6.07014857E-02 </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10410 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         210 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.109689258     </BIAS>
+ <RMSE>  0.123135611     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.61320782E-02 </MEAN_OBS>
+ <STDV_OBS>  0.451707214     </STDV_OBS>
+ <EXP>
+ <ID>       10430 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         212 </NUM>
+ <MEAN>   7.71823227E-02 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.335273236     </BIAS>
+ <RMSE>  0.432445526     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10430 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         212 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.341016471     </BIAS>
+ <RMSE>  0.377545714     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10430 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         212 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.385429680     </BIAS>
+ <RMSE>  0.337873459     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10430 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         212 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.416168928     </BIAS>
+ <RMSE>  0.463470727     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.18269224E-02 </MEAN_OBS>
+ <STDV_OBS>  0.197360769     </STDV_OBS>
+ <EXP>
+ <ID>       10453 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         208 </NUM>
+ <MEAN>   5.25563806E-02 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.300289750     </BIAS>
+ <RMSE>  0.265991002     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10453 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         208 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.338101834     </BIAS>
+ <RMSE>   5.76209277E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10453 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         208 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.336758941     </BIAS>
+ <RMSE>   7.25931227E-02 </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10453 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         208 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.309156120     </BIAS>
+ <RMSE>   8.71782899E-02 </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   9.86111090E-02 </MEAN_OBS>
+ <STDV_OBS>  0.276989847     </STDV_OBS>
+ <EXP>
+ <ID>       10496 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   3.50392647E-02 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.544244945     </BIAS>
+ <RMSE>  0.758048058     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10496 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.576126754     </BIAS>
+ <RMSE>  0.895714998     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10496 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.573354483     </BIAS>
+ <RMSE>  0.905257642     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10496 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.558885217     </BIAS>
+ <RMSE>  0.989523113     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.100467294     </MEAN_OBS>
+ <STDV_OBS>  0.381968498     </STDV_OBS>
+ <EXP>
+ <ID>       10022 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   9.72090960E-02 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.224082664     </BIAS>
+ <RMSE>  0.821174920     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10022 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.290838659     </BIAS>
+ <RMSE>  0.779318988     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10022 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.284602821     </BIAS>
+ <RMSE>  0.783518314     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10022 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.257994503     </BIAS>
+ <RMSE>  0.768674254     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.40566030E-02 </MEAN_OBS>
+ <STDV_OBS>  0.317311227     </STDV_OBS>
+ <EXP>
+ <ID>       10028 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         212 </NUM>
+ <MEAN>   6.19649887E-02 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.217962682     </BIAS>
+ <RMSE>  0.816524148     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10028 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         212 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.222202793     </BIAS>
+ <RMSE>  0.809545696     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10028 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         212 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.226533875     </BIAS>
+ <RMSE>  0.799904644     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10028 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         212 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.249354407     </BIAS>
+ <RMSE>  0.755355299     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.143661961     </MEAN_OBS>
+ <STDV_OBS>  0.548086643     </STDV_OBS>
+ <EXP>
+ <ID>       10042 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>  0.112465434     </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.561282635     </BIAS>
+ <RMSE>  0.642417014     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10042 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.558911145     </BIAS>
+ <RMSE>  0.661541760     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10042 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.547232807     </BIAS>
+ <RMSE>  0.685426176     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10042 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.427565783     </BIAS>
+ <RMSE>  0.765523911     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.83098596E-02 </MEAN_OBS>
+ <STDV_OBS>  0.321309805     </STDV_OBS>
+ <EXP>
+ <ID>       10093 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>   5.54882772E-02 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.226450443     </BIAS>
+ <RMSE>  0.577647209     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10093 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.213314354     </BIAS>
+ <RMSE>  0.512738466     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10093 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.218978614     </BIAS>
+ <RMSE>  0.453148514     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10093 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.245840773     </BIAS>
+ <RMSE>  0.729784012     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.77777780E-02 </MEAN_OBS>
+ <STDV_OBS>  0.238853127     </STDV_OBS>
+ <EXP>
+ <ID>       10097 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   3.97635140E-02 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.210893378     </BIAS>
+ <RMSE>  0.590578735     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10097 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.218177423     </BIAS>
+ <RMSE>  0.430634886     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10097 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.212415233     </BIAS>
+ <RMSE>  0.449462771     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10097 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.168031543     </BIAS>
+ <RMSE>  0.711740553     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.60747646E-02 </MEAN_OBS>
+ <STDV_OBS>  0.403679043     </STDV_OBS>
+ <EXP>
+ <ID>       10129 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>  0.100418650     </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.637323737     </BIAS>
+ <RMSE>  0.439321697     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10129 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.383336395     </BIAS>
+ <RMSE>  0.637409925     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10129 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.894596756     </BIAS>
+ <RMSE>  0.335618585     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10129 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.333772391     </BIAS>
+ <RMSE>  0.597438872     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.102843612     </MEAN_OBS>
+ <STDV_OBS>  0.251236856     </STDV_OBS>
+ <EXP>
+ <ID>       10130 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         211 </NUM>
+ <MEAN>   4.02830206E-02 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.305046022     </BIAS>
+ <RMSE>  0.897647798     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10130 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         211 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.318646491     </BIAS>
+ <RMSE>  0.845469773     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10130 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         211 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.312911034     </BIAS>
+ <RMSE>  0.839229345     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10130 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         211 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.309691399     </BIAS>
+ <RMSE>  0.904714108     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.47222239E-02 </MEAN_OBS>
+ <STDV_OBS>  0.217605382     </STDV_OBS>
+ <EXP>
+ <ID>       10139 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   4.86458503E-02 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.208449498     </BIAS>
+ <RMSE>  0.667813897     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10139 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.163809150     </BIAS>
+ <RMSE>  0.760056019     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10139 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.159282759     </BIAS>
+ <RMSE>  0.784522951     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10139 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.180451155     </BIAS>
+ <RMSE>  0.699968219     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.171361521     </MEAN_OBS>
+ <STDV_OBS>  0.597664773     </STDV_OBS>
+ <EXP>
+ <ID>       10142 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>   8.36755708E-02 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.483452588     </BIAS>
+ <RMSE>  0.927783072     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10142 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.530518889     </BIAS>
+ <RMSE>  0.818689346     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10142 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.551506698     </BIAS>
+ <RMSE>  0.801878691     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10142 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.504399896     </BIAS>
+ <RMSE>  0.852357924     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.115962438     </MEAN_OBS>
+ <STDV_OBS>  0.470502824     </STDV_OBS>
+ <EXP>
+ <ID>       10146 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>   8.58718529E-02 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.414810985     </BIAS>
+ <RMSE>  0.841974437     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10146 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.389833421     </BIAS>
+ <RMSE>  0.866622865     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10146 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.363196284     </BIAS>
+ <RMSE>  0.892191172     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10146 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.393165976     </BIAS>
+ <RMSE>  0.909828842     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.65740851E-02 </MEAN_OBS>
+ <STDV_OBS>  0.175332025     </STDV_OBS>
+ <EXP>
+ <ID>       10150 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   3.35999243E-02 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.280862570     </BIAS>
+ <RMSE>  0.766519606     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10150 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.274251252     </BIAS>
+ <RMSE>  0.779261768     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10150 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.355022222     </BIAS>
+ <RMSE>  0.704886496     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10150 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.321675330     </BIAS>
+ <RMSE>  0.765331745     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   9.01408494E-02 </MEAN_OBS>
+ <STDV_OBS>  0.762834251     </STDV_OBS>
+ <EXP>
+ <ID>       10152 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>  0.129089832     </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.543272913     </BIAS>
+ <RMSE>  0.581171632     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10152 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.624571323     </BIAS>
+ <RMSE>  0.558576107     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10152 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.619447768     </BIAS>
+ <RMSE>  0.555454433     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10152 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.548101306     </BIAS>
+ <RMSE>  0.707606614     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.118981481     </MEAN_OBS>
+ <STDV_OBS>  0.447057188     </STDV_OBS>
+ <EXP>
+ <ID>       10156 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   9.75945964E-02 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.453681499     </BIAS>
+ <RMSE>  0.640767813     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10156 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.402776122     </BIAS>
+ <RMSE>  0.728171885     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10156 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.401582271     </BIAS>
+ <RMSE>  0.721190989     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10156 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.357352525     </BIAS>
+ <RMSE>  0.776994050     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.150704220     </MEAN_OBS>
+ <STDV_OBS>  0.881396532     </STDV_OBS>
+ <EXP>
+ <ID>       10161 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>  0.119012177     </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.756088257     </BIAS>
+ <RMSE>  0.680905998     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10161 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.707574248     </BIAS>
+ <RMSE>  0.667360961     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10161 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.720649540     </BIAS>
+ <RMSE>  0.651586592     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10161 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.559058845     </BIAS>
+ <RMSE>  0.815916181     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.51851881E-02 </MEAN_OBS>
+ <STDV_OBS>  0.336495757     </STDV_OBS>
+ <EXP>
+ <ID>       10168 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   4.26795371E-02 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.166520551     </BIAS>
+ <RMSE>  0.719513178     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10168 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.155830786     </BIAS>
+ <RMSE>  0.597176254     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10168 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.154751226     </BIAS>
+ <RMSE>  0.555479109     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10168 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.266915768     </BIAS>
+ <RMSE>  0.610172689     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.72222231E-02 </MEAN_OBS>
+ <STDV_OBS>  0.279860467     </STDV_OBS>
+ <EXP>
+ <ID>       10180 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   4.50011231E-02 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.289568514     </BIAS>
+ <RMSE>  0.465157777     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10180 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.309017777     </BIAS>
+ <RMSE>  0.371317565     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10180 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.307705939     </BIAS>
+ <RMSE>  0.368716776     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10180 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.230132610     </BIAS>
+ <RMSE>  0.601164937     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.22222228E-02 </MEAN_OBS>
+ <STDV_OBS>  0.131280899     </STDV_OBS>
+ <EXP>
+ <ID>       10193 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   2.73816213E-02 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.200062647     </BIAS>
+ <RMSE>  0.220591500     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10193 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.122190908     </BIAS>
+ <RMSE>  0.600023508     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10193 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.122945316     </BIAS>
+ <RMSE>  0.450932443     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10193 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.129763722     </BIAS>
+ <RMSE>  0.433995068     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.19626248E-02 </MEAN_OBS>
+ <STDV_OBS>  0.631596804     </STDV_OBS>
+ <EXP>
+ <ID>       10210 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   6.09736964E-02 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.509394944     </BIAS>
+ <RMSE>  0.615310311     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10210 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.467303514     </BIAS>
+ <RMSE>  0.714894712     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10210 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.386778623     </BIAS>
+ <RMSE>  0.787602723     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10210 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.430972219     </BIAS>
+ <RMSE>  0.765010297     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.15740746E-02 </MEAN_OBS>
+ <STDV_OBS>  0.341023505     </STDV_OBS>
+ <EXP>
+ <ID>       10235 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   5.38774133E-02 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.750190377     </BIAS>
+ <RMSE>  0.141048282     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10235 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.240400732     </BIAS>
+ <RMSE>  0.417803049     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10235 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.220773816     </BIAS>
+ <RMSE>  0.477022350     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10235 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.323480695     </BIAS>
+ <RMSE>  0.330614388     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.56481567E-02 </MEAN_OBS>
+ <STDV_OBS>  0.481779099     </STDV_OBS>
+ <EXP>
+ <ID>       10249 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   8.02776217E-02 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.374420196     </BIAS>
+ <RMSE>  0.697771788     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10249 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.527801991     </BIAS>
+ <RMSE>  0.545177877     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10249 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.453567564     </BIAS>
+ <RMSE>  0.549471319     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10249 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.482766122     </BIAS>
+ <RMSE>  0.445033163     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.88888866E-02 </MEAN_OBS>
+ <STDV_OBS>  0.227909788     </STDV_OBS>
+ <EXP>
+ <ID>       10261 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   3.34134139E-02 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.308305502     </BIAS>
+ <RMSE>  0.119497456     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10261 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.272536963     </BIAS>
+ <RMSE>  0.116943777     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10261 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.272934884     </BIAS>
+ <RMSE>  0.155940235     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10261 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.322545528     </BIAS>
+ <RMSE>  0.114034481     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.56481411E-02 </MEAN_OBS>
+ <STDV_OBS>  0.195575848     </STDV_OBS>
+ <EXP>
+ <ID>       10267 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   2.97453310E-02 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.197672188     </BIAS>
+ <RMSE>  0.648591220     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10267 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.223734602     </BIAS>
+ <RMSE>  0.565999210     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10267 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.258890480     </BIAS>
+ <RMSE>  0.494052798     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10267 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.162386835     </BIAS>
+ <RMSE>  0.565032005     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.11267602E-02 </MEAN_OBS>
+ <STDV_OBS>  0.147580117     </STDV_OBS>
+ <EXP>
+ <ID>       10281 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>   2.66260989E-02 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.124380603     </BIAS>
+ <RMSE>  0.380420536     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10281 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.107197739     </BIAS>
+ <RMSE>  0.500298440     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10281 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.132321462     </BIAS>
+ <RMSE>  0.456522197     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10281 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.124030739     </BIAS>
+ <RMSE>  0.572010159     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.05633780E-02 </MEAN_OBS>
+ <STDV_OBS>  0.160412610     </STDV_OBS>
+ <EXP>
+ <ID>       10282 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>   2.66042184E-02 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.386309981     </BIAS>
+ <RMSE>  0.211515188     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10282 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.286090165     </BIAS>
+ <RMSE>  0.420833528     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10282 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.291092485     </BIAS>
+ <RMSE>  0.392001688     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10282 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.300817966     </BIAS>
+ <RMSE>  0.338867635     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.11267564E-02 </MEAN_OBS>
+ <STDV_OBS>  0.284944415     </STDV_OBS>
+ <EXP>
+ <ID>       10289 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>   3.66269425E-02 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.103880264     </BIAS>
+ <RMSE>  0.682498515     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10289 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.107249059     </BIAS>
+ <RMSE>  0.647469997     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10289 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.139937729     </BIAS>
+ <RMSE>  0.681011856     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10289 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.245172098     </BIAS>
+ <RMSE>  0.538933754     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>  0.490606874     </STDV_OBS>
+ <EXP>
+ <ID>       10309 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         211 </NUM>
+ <MEAN>   3.65009829E-02 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>   2.61250827E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10309 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         211 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.322427958     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10309 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         211 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.260797113     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10309 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         211 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.489442915     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.80487806E-03 </MEAN_OBS>
+ <STDV_OBS>  0.134494081     </STDV_OBS>
+ <EXP>
+ <ID>       10312 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         205 </NUM>
+ <MEAN>   1.43664312E-02 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>   4.97166663E-02 </BIAS>
+ <RMSE>  0.934012949     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10312 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         205 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   6.75926507E-02 </BIAS>
+ <RMSE>  0.993856907     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10312 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         205 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.263873100     </BIAS>
+ <RMSE>  0.889853895     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10312 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         205 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>   5.59176691E-02 </BIAS>
+ <RMSE>  0.997971773     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.74162696E-03 </MEAN_OBS>
+ <STDV_OBS>   4.19796742E-02 </STDV_OBS>
+ <EXP>
+ <ID>       10321 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         209 </NUM>
+ <MEAN>   6.30034553E-03 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>   5.62817231E-02 </BIAS>
+ <RMSE>  -1.89891085E-02 </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10321 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         209 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   6.13141097E-02 </BIAS>
+ <RMSE>  -1.63449813E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10321 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         209 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>   6.40201420E-02 </BIAS>
+ <RMSE>  -1.59121845E-02 </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10321 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         209 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>   6.39522821E-02 </BIAS>
+ <RMSE>  -1.81548968E-02 </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.90740761E-02 </MEAN_OBS>
+ <STDV_OBS>   1.64711297     </STDV_OBS>
+ <EXP>
+ <ID>       10325 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>  0.228437737     </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>   1.13148546     </BIAS>
+ <RMSE>  0.145860106     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10325 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.445258498     </BIAS>
+ <RMSE>  0.381287277     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10325 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.425076097     </BIAS>
+ <RMSE>  0.458048105     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10325 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>   1.64198136     </BIAS>
+ <RMSE>  0.139901102     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.51851881E-02 </MEAN_OBS>
+ <STDV_OBS>  0.360242993     </STDV_OBS>
+ <EXP>
+ <ID>       10348 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   6.01530038E-02 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.231146023     </BIAS>
+ <RMSE>  0.404360324     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10348 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.882581651     </BIAS>
+ <RMSE>  0.367845058     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10348 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.505658746     </BIAS>
+ <RMSE>  0.389984816     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10348 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.294293463     </BIAS>
+ <RMSE>  0.617228508     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.42056113E-02 </MEAN_OBS>
+ <STDV_OBS>  0.209737405     </STDV_OBS>
+ <EXP>
+ <ID>       10359 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   4.36558612E-02 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.440489888     </BIAS>
+ <RMSE>  0.203232005     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10359 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.347697109     </BIAS>
+ <RMSE>  0.474637657     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10359 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.309249043     </BIAS>
+ <RMSE>  0.544116259     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10359 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.359788150     </BIAS>
+ <RMSE>  0.259480119     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.77725077E-02 </MEAN_OBS>
+ <STDV_OBS>   8.37881863E-02 </STDV_OBS>
+ <EXP>
+ <ID>       10365 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         211 </NUM>
+ <MEAN>   1.41305747E-02 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.404852897     </BIAS>
+ <RMSE>  0.167958677     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10365 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         211 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.383520514     </BIAS>
+ <RMSE>  0.189971596     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10365 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         211 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.331436455     </BIAS>
+ <RMSE>  0.585650682     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10365 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         211 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.321998149     </BIAS>
+ <RMSE>  0.654859066     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.32407425E-02 </MEAN_OBS>
+ <STDV_OBS>  0.144674823     </STDV_OBS>
+ <EXP>
+ <ID>       10368 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   2.69639082E-02 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.387538314     </BIAS>
+ <RMSE>  -2.53692809E-02 </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10368 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.310709685     </BIAS>
+ <RMSE>   3.83961760E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10368 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.419024885     </BIAS>
+ <RMSE>   7.94627890E-03 </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10368 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.296754807     </BIAS>
+ <RMSE>  -1.77302044E-02 </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.29629644E-02 </MEAN_OBS>
+ <STDV_OBS>  0.106644019     </STDV_OBS>
+ <EXP>
+ <ID>       10376 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   1.03555024E-02 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.149851695     </BIAS>
+ <RMSE>  0.367214441     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10376 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.133076325     </BIAS>
+ <RMSE>  0.425867558     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10376 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.131902665     </BIAS>
+ <RMSE>  0.434322774     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10376 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.106992997     </BIAS>
+ <RMSE>  0.413111329     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.26760555E-02 </MEAN_OBS>
+ <STDV_OBS>  0.318259656     </STDV_OBS>
+ <EXP>
+ <ID>       10385 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>   3.53253372E-02 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>   8.57810602E-02 </BIAS>
+ <RMSE>  0.590820909     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10385 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   8.50909948E-02 </BIAS>
+ <RMSE>  0.596902251     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10385 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>   9.04376656E-02 </BIAS>
+ <RMSE>  0.524042845     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10385 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.327689350     </BIAS>
+ <RMSE>   6.95071667E-02 </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.16666688E-03 </MEAN_OBS>
+ <STDV_OBS>   7.22960457E-02 </STDV_OBS>
+ <EXP>
+ <ID>       10396 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   1.03434892E-02 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>   3.33134085E-02 </BIAS>
+ <RMSE>  0.351904511     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10396 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   5.85556664E-02 </BIAS>
+ <RMSE>  0.166331530     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10396 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>   5.58045916E-02 </BIAS>
+ <RMSE>  0.458595872     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10396 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>   7.20188916E-02 </BIAS>
+ <RMSE>  0.246497661     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.00000007E-02 </MEAN_OBS>
+ <STDV_OBS>  0.258103698     </STDV_OBS>
+ <EXP>
+ <ID>       10424 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   4.38695475E-02 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.338528216     </BIAS>
+ <RMSE>  0.192110866     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10424 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.315495521     </BIAS>
+ <RMSE>  0.122447208     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10424 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.313749433     </BIAS>
+ <RMSE>  0.160681367     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10424 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.355148077     </BIAS>
+ <RMSE>  0.191825703     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.58215964E-02 </MEAN_OBS>
+ <STDV_OBS>  0.305330813     </STDV_OBS>
+ <EXP>
+ <ID>       10433 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>   5.52385636E-02 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.833589673     </BIAS>
+ <RMSE>  0.182695359     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10433 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.324408084     </BIAS>
+ <RMSE>  0.307387829     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10433 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.274732172     </BIAS>
+ <RMSE>  0.383309990     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10433 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.192006141     </BIAS>
+ <RMSE>  0.786887527     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.43518513E-02 </MEAN_OBS>
+ <STDV_OBS>  0.265438169     </STDV_OBS>
+ <EXP>
+ <ID>       10435 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   4.60459739E-02 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.303543627     </BIAS>
+ <RMSE>  0.608067691     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10435 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.458438903     </BIAS>
+ <RMSE>  0.193652987     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10435 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.524601221     </BIAS>
+ <RMSE>  0.245765209     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10435 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.223458618     </BIAS>
+ <RMSE>  0.553524792     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.06572749E-02 </MEAN_OBS>
+ <STDV_OBS>  0.248958603     </STDV_OBS>
+ <EXP>
+ <ID>       10442 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>   3.79611664E-02 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.126372814     </BIAS>
+ <RMSE>  0.684599340     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10442 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.197361305     </BIAS>
+ <RMSE>  0.433699191     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10442 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.553757668     </BIAS>
+ <RMSE>  0.158844054     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10442 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.157980531     </BIAS>
+ <RMSE>  0.790214598     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.63888873E-02 </MEAN_OBS>
+ <STDV_OBS>   8.21802020E-02 </STDV_OBS>
+ <EXP>
+ <ID>       10444 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   1.66433826E-02 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.235893413     </BIAS>
+ <RMSE>  -2.26285681E-02 </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10444 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.242258623     </BIAS>
+ <RMSE>  -2.10131407E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10444 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.271990538     </BIAS>
+ <RMSE>  -1.72067825E-02 </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10444 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.238837257     </BIAS>
+ <RMSE>  -2.40908898E-02 </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.54502383E-02 </MEAN_OBS>
+ <STDV_OBS>  0.458822906     </STDV_OBS>
+ <EXP>
+ <ID>       10452 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         211 </NUM>
+ <MEAN>   7.51905590E-02 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.423862517     </BIAS>
+ <RMSE>  0.613919079     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10452 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         211 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.583814561     </BIAS>
+ <RMSE>  0.537662268     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10452 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         211 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.494117796     </BIAS>
+ <RMSE>  0.517190993     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10452 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         211 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.423590869     </BIAS>
+ <RMSE>  0.543557703     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.78302103E-02 </MEAN_OBS>
+ <STDV_OBS>  0.206792906     </STDV_OBS>
+ <EXP>
+ <ID>       10454 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         212 </NUM>
+ <MEAN>   3.81629616E-02 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.356095344     </BIAS>
+ <RMSE>  0.490646780     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10454 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         212 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.368051618     </BIAS>
+ <RMSE>  0.470810801     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10454 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         212 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.369765103     </BIAS>
+ <RMSE>  0.440908670     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10454 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         212 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.335903496     </BIAS>
+ <RMSE>  0.573711038     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.15384627E-02 </MEAN_OBS>
+ <STDV_OBS>   5.45130409E-02 </STDV_OBS>
+ <EXP>
+ <ID>       10458 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         208 </NUM>
+ <MEAN>   1.02117294E-02 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.121395275     </BIAS>
+ <RMSE>  -2.08799429E-02 </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10458 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         208 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.110054366     </BIAS>
+ <RMSE>  -1.95801165E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10458 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         208 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.102402270     </BIAS>
+ <RMSE>  -2.16699447E-02 </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10458 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         208 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.110863313     </BIAS>
+ <RMSE>  -2.27158591E-02 </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.40186911E-02 </MEAN_OBS>
+ <STDV_OBS>   5.94824851E-02 </STDV_OBS>
+ <EXP>
+ <ID>       10474 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   7.59744970E-03 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.725559175     </BIAS>
+ <RMSE>  0.370428532     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10474 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.284588605     </BIAS>
+ <RMSE>  0.434819728     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10474 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.389585495     </BIAS>
+ <RMSE>  0.478836894     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10474 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>   9.62291434E-02 </BIAS>
+ <RMSE>   2.54352372E-02 </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.48148218E-03 </MEAN_OBS>
+ <STDV_OBS>   4.42850851E-02 </STDV_OBS>
+ <EXP>
+ <ID>       10490 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   6.96439762E-03 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>   5.28728254E-02 </BIAS>
+ <RMSE>  0.371146500     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10490 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   7.41847157E-02 </BIAS>
+ <RMSE>  0.259060681     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10490 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>   4.87969406E-02 </BIAS>
+ <RMSE>  0.390227169     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10490 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>   4.48841639E-02 </BIAS>
+ <RMSE>  0.331003755     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.91133023E-03 </MEAN_OBS>
+ <STDV_OBS>   4.98309359E-02 </STDV_OBS>
+ <EXP>
+ <ID>        7010 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         203 </NUM>
+ <MEAN>   7.88697228E-03 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>   8.49649981E-02 </BIAS>
+ <RMSE>  -1.28442829E-03 </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7010 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         203 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   6.88566640E-02 </BIAS>
+ <RMSE>   5.56033999E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7010 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         203 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>   5.78390919E-02 </BIAS>
+ <RMSE>  0.272589356     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7010 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         203 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>   5.79994470E-02 </BIAS>
+ <RMSE>  0.299379528     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.53521185E-02 </MEAN_OBS>
+ <STDV_OBS>  0.118344463     </STDV_OBS>
+ <EXP>
+ <ID>       10381 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>   1.97293498E-02 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.138018146     </BIAS>
+ <RMSE>  0.233401582     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10381 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.146553501     </BIAS>
+ <RMSE>  0.207322389     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10381 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.142858282     </BIAS>
+ <RMSE>  0.190565899     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10381 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.169468284     </BIAS>
+ <RMSE>   6.66816756E-02 </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.42990598E-02 </MEAN_OBS>
+ <STDV_OBS>  0.423130274     </STDV_OBS>
+ <EXP>
+ <ID>        6030 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   8.17646980E-02 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.569570422     </BIAS>
+ <RMSE>  0.491259575     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6030 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.531550407     </BIAS>
+ <RMSE>  0.262031555     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6030 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.528953850     </BIAS>
+ <RMSE>  0.261069924     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6030 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.520173967     </BIAS>
+ <RMSE>  0.239142746     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.05555657E-02 </MEAN_OBS>
+ <STDV_OBS>  0.466507465     </STDV_OBS>
+ <EXP>
+ <ID>        6060 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>  0.117539220     </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.441627771     </BIAS>
+ <RMSE>  0.478010505     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6060 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.399494439     </BIAS>
+ <RMSE>  0.492183834     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6060 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.404971570     </BIAS>
+ <RMSE>  0.494656891     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6060 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.461627066     </BIAS>
+ <RMSE>  0.394045889     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.57142889E-02 </MEAN_OBS>
+ <STDV_OBS>  0.213769257     </STDV_OBS>
+ <EXP>
+ <ID>        6070 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         210 </NUM>
+ <MEAN>   4.60578650E-02 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.189402968     </BIAS>
+ <RMSE>  0.757896602     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6070 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         210 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.194122985     </BIAS>
+ <RMSE>  0.743016660     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6070 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         210 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.202242121     </BIAS>
+ <RMSE>  0.722872376     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6070 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         210 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.214474663     </BIAS>
+ <RMSE>  0.625431955     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.159999996     </MEAN_OBS>
+ <STDV_OBS>  0.419317633     </STDV_OBS>
+ <EXP>
+ <ID>        6180 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         210 </NUM>
+ <MEAN>   8.53592306E-02 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.419392705     </BIAS>
+ <RMSE>  0.858693182     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6180 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         210 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.366087168     </BIAS>
+ <RMSE>  0.910347641     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6180 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         210 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.393435121     </BIAS>
+ <RMSE>  0.906747639     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6180 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         210 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.471046329     </BIAS>
+ <RMSE>  0.825071812     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.81690173E-02 </MEAN_OBS>
+ <STDV_OBS>  0.209106788     </STDV_OBS>
+ <EXP>
+ <ID>        6193 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>   3.29234228E-02 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.352256566     </BIAS>
+ <RMSE>  0.777293324     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6193 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.126491621     </BIAS>
+ <RMSE>  0.847575545     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6193 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.198556319     </BIAS>
+ <RMSE>  0.809574366     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6193 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.131574064     </BIAS>
+ <RMSE>  0.784555912     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.75000060E-02 </MEAN_OBS>
+ <STDV_OBS>  0.568439364     </STDV_OBS>
+ <EXP>
+ <ID>        6019 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>  0.138743520     </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.281384975     </BIAS>
+ <RMSE>  0.875268281     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6019 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.315049738     </BIAS>
+ <RMSE>  0.840796351     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6019 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.326197982     </BIAS>
+ <RMSE>  0.838814557     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6019 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.306382626     </BIAS>
+ <RMSE>  0.858500898     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.31481463E-02 </MEAN_OBS>
+ <STDV_OBS>  0.454256237     </STDV_OBS>
+ <EXP>
+ <ID>        6031 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   8.65814686E-02 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.541585624     </BIAS>
+ <RMSE>  0.446422338     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6031 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.562874258     </BIAS>
+ <RMSE>  0.260978729     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6031 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.576258361     </BIAS>
+ <RMSE>  0.243256748     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6031 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.537133515     </BIAS>
+ <RMSE>  0.245583802     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.20370284E-02 </MEAN_OBS>
+ <STDV_OBS>  0.480145842     </STDV_OBS>
+ <EXP>
+ <ID>        6068 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>  0.121862739     </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.324331462     </BIAS>
+ <RMSE>  0.774227083     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6068 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.336965948     </BIAS>
+ <RMSE>  0.706068397     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6068 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.343742996     </BIAS>
+ <RMSE>  0.700564742     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6068 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.337690681     </BIAS>
+ <RMSE>  0.731044471     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.41784200E-02 </MEAN_OBS>
+ <STDV_OBS>  0.246603876     </STDV_OBS>
+ <EXP>
+ <ID>        6079 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>   4.62516248E-02 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.272587329     </BIAS>
+ <RMSE>  0.743355989     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6079 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.199267492     </BIAS>
+ <RMSE>  0.860812187     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6079 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.197654948     </BIAS>
+ <RMSE>  0.862490356     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6079 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.236182466     </BIAS>
+ <RMSE>  0.796335518     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.44444492E-02 </MEAN_OBS>
+ <STDV_OBS>  0.388136446     </STDV_OBS>
+ <EXP>
+ <ID>        6109 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   9.97837782E-02 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.269867450     </BIAS>
+ <RMSE>  0.746185422     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6109 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.263894230     </BIAS>
+ <RMSE>  0.705555022     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6109 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.272754818     </BIAS>
+ <RMSE>  0.689753175     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6109 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.306352079     </BIAS>
+ <RMSE>  0.611868799     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8.96713659E-02 </MEAN_OBS>
+ <STDV_OBS>  0.459316283     </STDV_OBS>
+ <EXP>
+ <ID>        6119 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>   9.23904926E-02 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.284601212     </BIAS>
+ <RMSE>  0.818117559     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6119 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.301827878     </BIAS>
+ <RMSE>  0.763571024     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6119 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.307363331     </BIAS>
+ <RMSE>  0.759497106     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6119 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.305513203     </BIAS>
+ <RMSE>  0.757621825     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.61682168E-02 </MEAN_OBS>
+ <STDV_OBS>  0.423649848     </STDV_OBS>
+ <EXP>
+ <ID>        6135 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   7.89086148E-02 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.235332638     </BIAS>
+ <RMSE>  0.820472896     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6135 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.229314521     </BIAS>
+ <RMSE>  0.827509105     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6135 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.224435404     </BIAS>
+ <RMSE>  0.835526407     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6135 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.263105065     </BIAS>
+ <RMSE>  0.789962947     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.77777806E-02 </MEAN_OBS>
+ <STDV_OBS>  0.694725752     </STDV_OBS>
+ <EXP>
+ <ID>        6138 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>  0.131270722     </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.363816351     </BIAS>
+ <RMSE>  0.835915625     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6138 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.389693290     </BIAS>
+ <RMSE>  0.789848268     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6138 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.446514100     </BIAS>
+ <RMSE>  0.752308249     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6138 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.480853230     </BIAS>
+ <RMSE>  0.730383813     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.42857130E-02 </MEAN_OBS>
+ <STDV_OBS>  0.350100398     </STDV_OBS>
+ <EXP>
+ <ID>        6149 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         210 </NUM>
+ <MEAN>   5.41310832E-02 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.157090515     </BIAS>
+ <RMSE>  0.762510121     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6149 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         210 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.244842440     </BIAS>
+ <RMSE>  0.428053737     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6149 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         210 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.255477548     </BIAS>
+ <RMSE>  0.405337960     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6149 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         210 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.232650638     </BIAS>
+ <RMSE>  0.748789310     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.21126725E-02 </MEAN_OBS>
+ <STDV_OBS>  0.256030679     </STDV_OBS>
+ <EXP>
+ <ID>        6159 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>   5.27771823E-02 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.195189536     </BIAS>
+ <RMSE>  0.797374189     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6159 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.205382198     </BIAS>
+ <RMSE>  0.740610301     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6159 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.200416818     </BIAS>
+ <RMSE>  0.757218599     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6159 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.260272682     </BIAS>
+ <RMSE>  0.520933926     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.00961551E-02 </MEAN_OBS>
+ <STDV_OBS>  0.311295182     </STDV_OBS>
+ <EXP>
+ <ID>        6169 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         208 </NUM>
+ <MEAN>   7.44883940E-02 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.280744880     </BIAS>
+ <RMSE>  0.683519721     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6169 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         208 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.234139457     </BIAS>
+ <RMSE>  0.659874499     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6169 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         208 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.252976269     </BIAS>
+ <RMSE>  0.726349592     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6169 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         208 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.284798324     </BIAS>
+ <RMSE>  0.543295860     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.54629597E-02 </MEAN_OBS>
+ <STDV_OBS>  0.434624732     </STDV_OBS>
+ <EXP>
+ <ID>        6174 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   9.36022848E-02 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.200012311     </BIAS>
+ <RMSE>  0.859547496     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6174 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.213151425     </BIAS>
+ <RMSE>  0.838418543     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6174 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.212658480     </BIAS>
+ <RMSE>  0.839288056     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6174 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.309076667     </BIAS>
+ <RMSE>  0.723629117     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.63888955E-02 </MEAN_OBS>
+ <STDV_OBS>  0.454879910     </STDV_OBS>
+ <EXP>
+ <ID>        6188 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>  0.105482697     </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.228416249     </BIAS>
+ <RMSE>  0.801173925     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6188 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.299792528     </BIAS>
+ <RMSE>  0.718619585     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6188 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.229739159     </BIAS>
+ <RMSE>  0.807839155     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6188 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.335656345     </BIAS>
+ <RMSE>  0.680631161     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.27488149E-02 </MEAN_OBS>
+ <STDV_OBS>  0.556470931     </STDV_OBS>
+ <EXP>
+ <ID>        6041 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         211 </NUM>
+ <MEAN>  0.101687357     </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.663366199     </BIAS>
+ <RMSE>  0.466120631     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6041 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         211 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.415212989     </BIAS>
+ <RMSE>  0.448744178     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6041 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         211 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.427798897     </BIAS>
+ <RMSE>  0.428121805     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6041 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         211 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.513041556     </BIAS>
+ <RMSE>  0.422967643     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.83886248E-02 </MEAN_OBS>
+ <STDV_OBS>  0.426737040     </STDV_OBS>
+ <EXP>
+ <ID>        6052 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         211 </NUM>
+ <MEAN>   9.87363830E-02 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.343976438     </BIAS>
+ <RMSE>  0.778311789     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6052 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         211 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.342285335     </BIAS>
+ <RMSE>  0.839738369     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6052 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         211 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.359154791     </BIAS>
+ <RMSE>  0.837939739     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6052 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         211 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.294437975     </BIAS>
+ <RMSE>  0.838837683     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.105140194     </MEAN_OBS>
+ <STDV_OBS>  0.328287840     </STDV_OBS>
+ <EXP>
+ <ID>        6058 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   7.97367543E-02 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.360131979     </BIAS>
+ <RMSE>  0.580269277     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6058 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.379324794     </BIAS>
+ <RMSE>  0.560961187     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6058 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.405291229     </BIAS>
+ <RMSE>  0.498321652     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6058 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.356317669     </BIAS>
+ <RMSE>  0.572378039     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.103703730     </MEAN_OBS>
+ <STDV_OBS>  0.366013646     </STDV_OBS>
+ <EXP>
+ <ID>        6065 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   8.68100673E-02 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.495244592     </BIAS>
+ <RMSE>  0.331810236     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6065 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.452450275     </BIAS>
+ <RMSE>  0.309553653     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6065 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.444121212     </BIAS>
+ <RMSE>  0.309440464     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6065 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.444590211     </BIAS>
+ <RMSE>  0.307549238     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.20370321E-02 </MEAN_OBS>
+ <STDV_OBS>  0.228306815     </STDV_OBS>
+ <EXP>
+ <ID>        6072 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   4.69211638E-02 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.245582223     </BIAS>
+ <RMSE>  0.762190580     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6072 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.195070133     </BIAS>
+ <RMSE>  0.852876544     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6072 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.208402082     </BIAS>
+ <RMSE>  0.829962552     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6072 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.245562777     </BIAS>
+ <RMSE>  0.770635903     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.38095243E-02 </MEAN_OBS>
+ <STDV_OBS>  0.213708892     </STDV_OBS>
+ <EXP>
+ <ID>        6074 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         210 </NUM>
+ <MEAN>   4.09241766E-02 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.152824238     </BIAS>
+ <RMSE>  0.868114471     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6074 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         210 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.145726472     </BIAS>
+ <RMSE>  0.862838745     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6074 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         210 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.145274520     </BIAS>
+ <RMSE>  0.851579964     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6074 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         210 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.124578483     </BIAS>
+ <RMSE>  0.821696579     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.109722234     </MEAN_OBS>
+ <STDV_OBS>  0.393413037     </STDV_OBS>
+ <EXP>
+ <ID>        6082 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>  0.118946970     </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.332169563     </BIAS>
+ <RMSE>  0.704681575     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6082 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.325014353     </BIAS>
+ <RMSE>  0.716530442     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6082 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.330689311     </BIAS>
+ <RMSE>  0.706989646     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6082 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.352056473     </BIAS>
+ <RMSE>  0.666867256     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.69444411E-02 </MEAN_OBS>
+ <STDV_OBS>  0.248663366     </STDV_OBS>
+ <EXP>
+ <ID>        6102 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   5.36348261E-02 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.210143119     </BIAS>
+ <RMSE>  0.738898933     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6102 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.216604277     </BIAS>
+ <RMSE>  0.726816237     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6102 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.218697742     </BIAS>
+ <RMSE>  0.723412752     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6102 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.209640056     </BIAS>
+ <RMSE>  0.702235878     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.37499993E-02 </MEAN_OBS>
+ <STDV_OBS>  0.350604892     </STDV_OBS>
+ <EXP>
+ <ID>        6104 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         208 </NUM>
+ <MEAN>   8.47638026E-02 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.270919204     </BIAS>
+ <RMSE>  0.745490730     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6104 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         208 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.297264844     </BIAS>
+ <RMSE>  0.693846464     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6104 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         208 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.276588440     </BIAS>
+ <RMSE>  0.715157509     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6104 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         208 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.243259773     </BIAS>
+ <RMSE>  0.718533158     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.42056039E-02 </MEAN_OBS>
+ <STDV_OBS>  0.325758576     </STDV_OBS>
+ <EXP>
+ <ID>        6110 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   8.83620456E-02 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.204087973     </BIAS>
+ <RMSE>  0.824024260     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6110 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.198686108     </BIAS>
+ <RMSE>  0.853071272     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6110 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.222272784     </BIAS>
+ <RMSE>  0.827467263     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6110 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         214 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.163018286     </BIAS>
+ <RMSE>  0.865169883     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   7.50000030E-02 </MEAN_OBS>
+ <STDV_OBS>  0.322162479     </STDV_OBS>
+ <EXP>
+ <ID>        6126 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   7.74285272E-02 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.268499523     </BIAS>
+ <RMSE>  0.773612797     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6126 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.295287460     </BIAS>
+ <RMSE>  0.755001783     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6126 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.279944092     </BIAS>
+ <RMSE>  0.763556182     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6126 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.221761778     </BIAS>
+ <RMSE>  0.784277976     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.48148134E-02 </MEAN_OBS>
+ <STDV_OBS>  0.454547405     </STDV_OBS>
+ <EXP>
+ <ID>        6136 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   9.06898826E-02 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.168919742     </BIAS>
+ <RMSE>  0.930717468     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6136 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.163114607     </BIAS>
+ <RMSE>  0.904479384     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6136 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.200281382     </BIAS>
+ <RMSE>  0.870303690     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6136 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.264406890     </BIAS>
+ <RMSE>  0.816295087     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.19718209E-02 </MEAN_OBS>
+ <STDV_OBS>  0.625142038     </STDV_OBS>
+ <EXP>
+ <ID>        6141 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>  0.116042286     </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.328793108     </BIAS>
+ <RMSE>  0.260221004     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6141 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.551063836     </BIAS>
+ <RMSE>  0.275107920     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6141 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.582021773     </BIAS>
+ <RMSE>  0.282116771     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6141 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.602122247     </BIAS>
+ <RMSE>  0.266238362     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.49295768E-02 </MEAN_OBS>
+ <STDV_OBS>  0.702130139     </STDV_OBS>
+ <EXP>
+ <ID>        6147 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>  0.114374548     </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.286762178     </BIAS>
+ <RMSE>  0.901703954     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6147 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.244544864     </BIAS>
+ <RMSE>  0.946692407     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6147 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.231396750     </BIAS>
+ <RMSE>  0.949594378     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6147 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.388991714     </BIAS>
+ <RMSE>  0.924681187     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.97630350E-02 </MEAN_OBS>
+ <STDV_OBS>  0.537747920     </STDV_OBS>
+ <EXP>
+ <ID>        6154 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         211 </NUM>
+ <MEAN>  0.116280936     </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.251395762     </BIAS>
+ <RMSE>  0.896611392     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6154 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         211 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.248882443     </BIAS>
+ <RMSE>  0.890245378     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6154 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         211 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.255246490     </BIAS>
+ <RMSE>  0.883396149     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6154 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         211 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.346802652     </BIAS>
+ <RMSE>  0.823017657     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.60185201E-02 </MEAN_OBS>
+ <STDV_OBS>  0.355628252     </STDV_OBS>
+ <EXP>
+ <ID>        6156 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   6.66589811E-02 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.296560973     </BIAS>
+ <RMSE>  0.506268382     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6156 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.319687963     </BIAS>
+ <RMSE>  0.460364312     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6156 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.315645516     </BIAS>
+ <RMSE>  0.478348464     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6156 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.350610733     </BIAS>
+ <RMSE>  0.392505705     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.106103271     </MEAN_OBS>
+ <STDV_OBS>  0.295792073     </STDV_OBS>
+ <EXP>
+ <ID>        6170 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>   5.81181757E-02 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.314776450     </BIAS>
+ <RMSE>  0.852355957     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6170 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.291390389     </BIAS>
+ <RMSE>  0.864914656     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6170 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.288898528     </BIAS>
+ <RMSE>  0.875799954     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6170 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.312650502     </BIAS>
+ <RMSE>  0.829660237     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.91666687E-02 </MEAN_OBS>
+ <STDV_OBS>  0.233310491     </STDV_OBS>
+ <EXP>
+ <ID>        6197 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   4.36347872E-02 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.123920240     </BIAS>
+ <RMSE>  0.816991687     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6197 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.229021236     </BIAS>
+ <RMSE>  0.801931620     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6197 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.286836475     </BIAS>
+ <RMSE>  0.752957761     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6197 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         216 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.150913045     </BIAS>
+ <RMSE>  0.761455715     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.74178419E-02 </MEAN_OBS>
+ <STDV_OBS>  0.164127097     </STDV_OBS>
+ <EXP>
+ <ID>       10046 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>   2.70748008E-02 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.171126708     </BIAS>
+ <RMSE>  0.898073077     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10046 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.146178499     </BIAS>
+ <RMSE>  0.892943203     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10046 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.137755379     </BIAS>
+ <RMSE>  0.911233664     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10046 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         213 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.150762707     </BIAS>
+ <RMSE>  0.917589128     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.113679238     </MEAN_OBS>
+ <STDV_OBS>  0.942821145     </STDV_OBS>
+ <EXP>
+ <ID>       10200 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         212 </NUM>
+ <MEAN>  0.106460348     </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.430821568     </BIAS>
+ <RMSE>  0.891564965     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10200 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         212 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.337383211     </BIAS>
+ <RMSE>  0.921333075     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10200 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         212 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.373189360     </BIAS>
+ <RMSE>  0.919489920     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       10200 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         212 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.424624026     </BIAS>
+ <RMSE>  0.899848521     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.71428542E-02 </MEAN_OBS>
+ <STDV_OBS>  0.432199478     </STDV_OBS>
+ <EXP>
+ <ID>        6051 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         210 </NUM>
+ <MEAN>  0.105686031     </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.349468678     </BIAS>
+ <RMSE>  0.864733815     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6051 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         210 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.344139576     </BIAS>
+ <RMSE>  0.923765182     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6051 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         210 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.356829762     </BIAS>
+ <RMSE>  0.927277982     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6051 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         210 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.292400271     </BIAS>
+ <RMSE>  0.927316189     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>  0.285002440     </STDV_OBS>
+ <EXP>
+ <ID>        6080 </ID>
+ <NAME>mnwc_preop_teho</NAME>
+ <NUM>         209 </NUM>
+ <MEAN>   7.23592564E-02 </MEAN>
+ <STDV>  -1.76794481E+26 </STDV>
+ <BIAS>  0.330335170     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -3.86016274E-35 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6080 </ID>
+ <NAME>mnwc_prod_voima</NAME>
+ <NUM>         209 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.359177828     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6080 </ID>
+ <NAME>mnwc_prod_stratus</NAME>
+ <NUM>         209 </NUM>
+ <MEAN>  -3.42960865E+10 </MEAN>
+ <STDV>  -3.42960865E+10 </STDV>
+ <BIAS>  0.371149629     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -3.42962504E+10 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        6080 </ID>
+ <NAME>meps_prod</NAME>
+ <NUM>         209 </NUM>
+ <MEAN>   1.53203961E-41 </MEAN>
+ <STDV>   1.53203961E-41 </STDV>
+ <BIAS>  0.284319788     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   1.53203961E-41 </CORR>
+ </EXP>
+ </STATION>
+</STAT>
